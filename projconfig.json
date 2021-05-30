@@ -6,10 +6,10 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv",
+      "tensorPath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/vectors.txt?raw=true",
+      "metadataPath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/metadata.tsv?raw=true",
       "sprite": {
-        "imagePath": "https://github.com/.../optional.sprite.png",
+        "imagePath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/sprites.png?raw=true",
         "singleImageDim": [
           120,
           120
