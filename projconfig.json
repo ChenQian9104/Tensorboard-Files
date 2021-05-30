@@ -6,8 +6,8 @@
         4512,
         2395
       ],
-      "tensorPath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/vectors.txt?raw=true",
-      "metadataPath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/metadata.tsv?raw=true",
+      "tensorPath": "https://raw.githubusercontent.com/Lyleregenwetter/BIKED-Tensorboard-Files/master/vectors.txt",
+      "metadataPath": "https://raw.githubusercontent.com/Lyleregenwetter/BIKED-Tensorboard-Files/master/metadata.tsv",
       "sprite": {
         "imagePath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/sprites.png?raw=true",
         "singleImageDim": [
