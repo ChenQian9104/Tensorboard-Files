@@ -3,8 +3,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1000,
-        50
+        4512,
+        2395
       ],
       "tensorPath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/vectors.txt?raw=true",
       "metadataPath": "https://github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/metadata.tsv?raw=true",
