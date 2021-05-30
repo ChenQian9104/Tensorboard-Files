@@ -9,7 +9,7 @@
       "tensorPath": "https://raw.githubusercontent.com/Lyleregenwetter/BIKED-Tensorboard-Files/master/vectors.txt",
       "metadataPath": "https://raw.githubusercontent.com/Lyleregenwetter/BIKED-Tensorboard-Files/master/metadata.tsv",
       "sprite": {
-        "imagePath": "https://raw.github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/sprites.pnge",
+        "imagePath": "https://raw.github.com/Lyleregenwetter/BIKED-Tensorboard-Files/blob/master/sprites.png",
         "singleImageDim": [
           120,
           120
