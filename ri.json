@@ -3,16 +3,16 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        4512,
-        2395
+        1024,
+        10
       ],
-      "tensorPath": "https://raw.githubusercontent.com/Lyleregenwetter/BIKED-Tensorboard-Files/master/vectors.txt",
-      "metadataPath": "https://raw.githubusercontent.com/Lyleregenwetter/BIKED-Tensorboard-Files/master/metadata.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/ChenQian9104/Tensorboard-Files/master/vectors.txt",
+      "metadataPath": "https://raw.githubusercontent.com/ChenQian9104/Tensorboard-Files/master/metadata.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/Lyleregenwetter/BIKED-Tensorboard-Files/master/sprites.png?raw=true",
+        "imagePath": "https://raw.githubusercontent.com/ChenQian9104/Tensorboard-Files/master/sprites.png?raw=true",
         "singleImageDim": [
-          120,
-          120
+          32,
+          32
         ]
       }
     }
