@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/ChenQian9104/Tensorboard-Files/master/sprites.png?raw=true",
         "singleImageDim": [
-          512,
-          512
+          128,
+          128
         ]
       }
     }
